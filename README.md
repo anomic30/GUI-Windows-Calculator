@@ -1,6 +1,7 @@
 # GUI-Windows-Calculator
 Made with Windows forms(.NET Framework) using C++.
-## Source files: https://github.com/anomic30/GUI-Windows-Calculator-Source-Files.
+### Source files: 
+https://github.com/anomic30/GUI-Windows-Calculator-Source-Files.
 
 # Installation-Guide
 1) Double click on CalculatorSetup.msi to install the app.
