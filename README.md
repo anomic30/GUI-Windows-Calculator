@@ -10,3 +10,6 @@ https://github.com/anomic30/GUI-Windows-Calculator-Source-Files.
 # If the app doesn't run-
 Make sure you have the latest version of .NET Framework installed on your computer. 
 If not then install it from here: https://dotnet.microsoft.com/download
+
+# Snapshots-
+![](GUI-Windows-Calculator/calc.png
